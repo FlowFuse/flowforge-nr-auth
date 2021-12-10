@@ -1,14 +1,24 @@
 {
   "name": "@flowforge/nr-auth",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Node-RED Authentication Plugin for the FlowForge platform",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowforge/flowforge-nr-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowforge/flowforge-nr-auth/issues"
+  },
+  "homepage": "https://github.com/flowforge/flowforge-nr-auth#readme",
+  "author": {
+    "name": "FlowForge Inc."
+  },
+  "license": "SEE LICENSE IN ./LICENSE",
   "dependencies": {
     "passport-oauth2": "1.6.0",
     "oauth": "0.9.15"
