@@ -4,7 +4,9 @@
   "description": "A Node-RED Authentication Plugin for the FlowForge platform",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint -c .eslintrc lib/*.js",
+    "lint:fix": "eslint -c .eslintrc lib/*.js --fix"
   },
   "keywords": [],
   "repository": {
@@ -22,5 +24,9 @@
   "dependencies": {
     "passport-oauth2": "^1.6.1",
     "oauth": "^0.9.15"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3"
   }
 }
