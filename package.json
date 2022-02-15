@@ -20,7 +20,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "passport-oauth2": "1.6.0",
-    "oauth": "0.9.15"
+    "passport-oauth2": "^1.6.1",
+    "oauth": "^0.9.15"
   }
 }
