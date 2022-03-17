@@ -1,32 +1,32 @@
 {
-  "name": "@flowforge/nr-auth",
-  "version": "0.2.0",
-  "description": "A Node-RED Authentication Plugin for the FlowForge platform",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint -c .eslintrc lib/*.js",
-    "lint:fix": "eslint -c .eslintrc lib/*.js --fix"
-  },
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/flowforge/flowforge-nr-auth.git"
-  },
-  "bugs": {
-    "url": "https://github.com/flowforge/flowforge-nr-auth/issues"
-  },
-  "homepage": "https://github.com/flowforge/flowforge-nr-auth#readme",
-  "author": {
-    "name": "FlowForge Inc."
-  },
-  "license": "Apache-2.0",
-  "dependencies": {
-    "passport-oauth2": "^1.6.1",
-    "oauth": "^0.9.15"
-  },
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-standard": "^16.0.3"
-  }
+    "name": "@flowforge/nr-auth",
+    "version": "0.3.0",
+    "description": "A Node-RED Authentication Plugin for the FlowForge platform",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint -c .eslintrc lib/*.js",
+        "lint:fix": "eslint -c .eslintrc lib/*.js --fix"
+    },
+    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flowforge/flowforge-nr-auth.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flowforge/flowforge-nr-auth/issues"
+    },
+    "homepage": "https://github.com/flowforge/flowforge-nr-auth#readme",
+    "author": {
+        "name": "FlowForge Inc."
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "passport-oauth2": "^1.6.1",
+        "oauth": "^0.9.15"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-standard": "^16.0.3"
+    }
 }
