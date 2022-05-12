@@ -1,7 +1,5 @@
 #### 0.5.0: Release
 
- - Update version to 0.5.0
- - Update CHANGELOG for 0.5.0
  - Add autoLogin option to adminAuth (#15) @knolleary
 
 #### 0.4.0: Release
