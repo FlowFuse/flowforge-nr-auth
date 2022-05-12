@@ -1,3 +1,7 @@
+#### 0.5.0: Release
+
+ - Add autoLogin option to adminAuth (#15) @knolleary
+
 #### 0.4.0: Release
 
  - Update project automation (#12) @knolleary
