@@ -1,3 +1,6 @@
+#### 0.6.0: Release
+
+
 #### 0.5.0: Release
 
  - Add autoLogin option to adminAuth (#15) @knolleary
