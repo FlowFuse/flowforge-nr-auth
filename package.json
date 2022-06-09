@@ -1,6 +1,6 @@
 {
     "name": "@flowforge/nr-auth",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "A Node-RED Authentication Plugin for the FlowForge platform",
     "main": "lib/index.js",
     "scripts": {
