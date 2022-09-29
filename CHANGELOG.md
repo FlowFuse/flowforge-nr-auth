@@ -1,3 +1,7 @@
+#### 0.10.0: Release
+
+ - Use scope to set user permissions (#23) @knolleary
+
 #### 0.9.0: Release
 
 
