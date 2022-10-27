@@ -1,3 +1,7 @@
+#### 1.0.0: Release
+
+ - Update eslint (#26) @knolleary
+
 #### 0.10.0: Release
 
  - Use scope to set user permissions (#23) @knolleary
