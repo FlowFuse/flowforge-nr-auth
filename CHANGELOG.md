@@ -1,3 +1,9 @@
+#### 1.3.0: Release
+
+ - Use originalUrl when storing redirect path to handle mounted apps (#32) @knolleary
+ - Add debug to middleware for errors (#31) @knolleary
+ - Add httpNode middleware support for FlowForge User auth (#30) @knolleary
+
 #### 1.2.0: Release
 
 
